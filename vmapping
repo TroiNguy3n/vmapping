@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:32:50.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="b12_6YicQ9TqjHMf35wj" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:37:55.397Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.82" etag="Z1Bq2BhDyayG7YB3z9mw" version="21.6.2" type="github">
   <diagram name="Trang-1" id="FOTKSCDAS5_esLpAcNL2">
     <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,15 +36,20 @@
           <mxGeometry x="359" y="250" width="236" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EIMS1ubfZVy9WJWsK4vp-8" value="&lt;b&gt;NODE&lt;/b&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="437" y="390" width="80" height="80" as="geometry" />
+          <mxGeometry x="408.5" y="390" width="137" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="EIMS1ubfZVy9WJWsK4vp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EIMS1ubfZVy9WJWsK4vp-3" target="EIMS1ubfZVy9WJWsK4vp-5">
+        <mxCell id="EIMS1ubfZVy9WJWsK4vp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="EIMS1ubfZVy9WJWsK4vp-3" target="EIMS1ubfZVy9WJWsK4vp-5">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="350" y="280" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="120" />
               <mxPoint x="340" y="280" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EIMS1ubfZVy9WJWsK4vp-15" value="Dây nhảy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="EIMS1ubfZVy9WJWsK4vp-14">
+          <mxGeometry x="0.2157" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
